@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Geoffrey Hannigan
+  name: Geoffrey Hannigan, PhD
   avatar: bio-photo.jpg
   email: hanni035@umn.edu
   disqus-shortname:

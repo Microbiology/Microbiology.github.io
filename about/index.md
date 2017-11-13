@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About the Blog
+excerpt: "About Geof Hannigan"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg
@@ -9,18 +9,10 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+### About the Blog
+Welcome to "Prophage", the blog all about bacteria, phages (bacterial viruses), computers, and science!  The three goals of this blog are to provide thoughtful discussions about current scientific topics and literature, to offer insight into the life of a biomedical scientist by outlining some of my own experiences, and to supply interesting and helpful resources that others will find useful.  I am doing this by posting essays, thoughts, notes and ideas every few days.  By keeping the focus of Prophage broad, I will continue to write about what I find interesting, and continue to introduce you to new and exciting topics.  Thanks for reading and enjoy! 
 
-## So Simple Theme is all about:
+*NOTE*: This is a personal blog and all opinions & views are my own.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+### About the Blogger
+My name is Geoffrey Hannigan and I am a bioinformatics scientist at the Merck Exploratory Science Center in Cambridge, MA. My research is mostly driven by high-throughput sequencing and bioinformatics. 
