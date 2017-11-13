@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Prophage
 locale: en_US
-description: Describe your website here.
+description: The Blog for Bacteria, Phages, Computers, and Science
 logo: site-logo.png
 search: true
 url: http://microbiology.github.io
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Geoffrey Hannigan
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: hanni035@umn.edu
   disqus-shortname:
-  twitter: #username
+  twitter: iprophage
   facebook: #username
-  github: #username
+  github: Microbiology
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
