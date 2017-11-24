@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New Insights Into How Bacterial Viruses Access The Human Body"
+excerpt: "Bacteriophage Transcytosis Provides a Mechanism To Cross Epithelial Cell Layers"
 categories: blog
 tags: [Phage, Microbiome, Virome, Recent Research]
 comments: true
