@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "How to Write Your Next Letter Using Markdown",
+      "link"			: "http://microbiology.github.io/blog/cover-letter-template/",
+      "excerpt"		: "Focus on Your Letter Centent by Writing in Markdown and Converting to a PDF Using Pandoc."
+    }
+  
+
+  
+    ,{
       "title"			: "New Insights Into How Bacterial Viruses Access The Human Body",
       "link"			: "http://microbiology.github.io/blog/phage-barrier-function/",
       "excerpt"		: "Bacteriophage Transcytosis Provides a Mechanism To Cross Epithelial Cell Layers"
