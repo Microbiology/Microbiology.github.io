@@ -6,7 +6,7 @@ categories: blog
 tags: [Useful Resources, Pandoc, Markdown, Reproducibility]
 comments: true
 share: true
-date: 2017-12-29T15:08
+date: 2017-12-31T08:10
 ---
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) and [RMarkdown](http://rmarkdown.rstudio.com) are great tools for writing scientific documents and manuscripts. Markdown is advantageous over platforms like Microsoft Word because it only uses a simple text file, it allows the writer to focus on content and not formatting, and it can be incorporated easily into reproducible science workflows (Markdown is a sort of code). My colleagues and myself have really enjoyed using Markdown in [our own work](https://github.com/SchlossLab/Hannigan_CRCVirome_mBio_2017), although the documents have primarily been research manuscripts. As I was preparing these types of manuscripts for submission to journals, I wanted to include a Markdown cover letter to accompany my Markdown manuscript. In this blog post I want to present the resulting cover letter Markdown template that I came up with and used.
