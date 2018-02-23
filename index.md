@@ -5,7 +5,9 @@ search_omit: true
 
 # Welcome to Prophage
 
-Welcome to the **Prophage** blog. This blog is written and maintained by Dr. Geoffrey Hannigan. Check out the latest posts below, or read more about Dr. Hannigan in the "about the author" section.
+Welcome to the **Prophage** blog 2.0! This is version 2.0 because it is a new location and structure of the original Prophage blog that started back in 2013. The old blog was very successful, with well over 100,000 views, but it was time to update the site.
+
+This blog is written and maintained by Dr. Geoffrey Hannigan. Check out the latest blog entries below, navigate the site using the menu above, and check out the [original Prophage here](http://prophage.blogspot.com). Read more about Dr. Hannigan in the "about the author" section.
 
 # Latest Posts
 
