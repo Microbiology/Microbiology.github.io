@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://microbiology.github.io/blog/com-bio-tech/</loc>
+<lastmod>2018-03-18T17:15:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://microbiology.github.io/blog/urine-virome/</loc>
 <lastmod>2018-02-14T20:15:00-05:00</lastmod>
 </url>
