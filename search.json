@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Three Technologies With a Future In Computational Biology",
+      "link"			: "http://microbiology.github.io/blog/com-bio-tech/",
+      "excerpt"		: "An overview of three technologies poised to make big impacts on the field of computational biology."
+    }
+  
+
+  
+    ,{
       "title"			: "Uncovering the Hidden Viruses of Your Urine",
       "link"			: "http://microbiology.github.io/blog/urine-virome/",
       "excerpt"		: "A group recently isolated bacteria to better understand viruses hiding in bacterial genomes."
