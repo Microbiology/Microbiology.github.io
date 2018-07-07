@@ -45,6 +45,14 @@
   
 
   
+    ,{
+      "title"			: "About the Blog",
+      "link"			: "http://microbiology.github.io/about/",
+      "excerpt"		: "About Geof Hannigan"
+    }
+  
+
+  
 
   
 
@@ -57,14 +65,6 @@
       "title"			: "Theme Setup",
       "link"			: "http://microbiology.github.io/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
-    }
-  
-
-  
-    ,{
-      "title"			: "About the Blog",
-      "link"			: "http://microbiology.github.io/about/",
-      "excerpt"		: "About Geof Hannigan"
     }
   
 
