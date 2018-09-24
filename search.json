@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Microbiome Natural Product Biosynthesis and Synthetic Orphans",
+      "link"			: "http://microbiology.github.io/blog/bgc-transcript-pnas/",
+      "excerpt"		: "Discussion of a recent study that provides new insights into orphan biosynthetic gene clusters, and the implications of those findings for the human microbiome."
+    }
+  
+
+  
+    ,{
       "title"			: "Three Technologies With a Future In Computational Biology",
       "link"			: "http://microbiology.github.io/blog/com-bio-tech/",
       "excerpt"		: "An overview of three technologies poised to make big impacts on the field of computational biology."
