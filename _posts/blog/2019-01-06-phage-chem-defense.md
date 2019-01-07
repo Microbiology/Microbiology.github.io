@@ -15,7 +15,7 @@ The work of Kronheim *et al* began with an observation in the scientific literat
 
 <figure>
   <div style="vertical-align:middle; text-align:center">
-  <img src="../../../images/chem-phage-old-paper.png"  align="middle" width="80%">
+  <img src="../../../images/chem-phage-old-paper.png"  align="middle" width="50%">
   <figcaption>Work from Morita et al in 1979 provided some initial insights into the impact small molecule drugs have on phage infection.</figcaption>
   </div>
 </figure>
@@ -24,7 +24,7 @@ The Kronheim group began their study by performing a small molecule screen to id
 
 <figure>
   <div style="vertical-align:middle; text-align:center">
-  <img src="../../../images/chem-phage-screen.png"  align="middle" width="80%">
+  <img src="../../../images/chem-phage-screen.png"  align="middle" width="75%">
   <figcaption>Illustration of the group's experimental screen setup, from their manuscript. Bacterial isolates (E. coli) were either cultured alone, with phages, or with phages and a small molecule compound. The growth curves were measured to determine which compounds prevented bacterial destruction from phages.</figcaption>
   </div>
 </figure>
