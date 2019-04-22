@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clarifying the Biosynthetic Functional Potential of the Oral Microbiome in Dental Caries and Periodontitis"
+title: "Biosynthetic Potential of the Oral Microbiome in Dental Caries and Periodontitis"
 excerpt: "A recently reported study outlines the biosynthetic functional potential of the oral microbiome."
 categories: blog
 tags: [Recent Research, Microbiome, Molecular Biology, Natural Products, Metabolomics]
