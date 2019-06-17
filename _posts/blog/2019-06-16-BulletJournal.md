@@ -11,7 +11,7 @@ date: 2019-06-16T21:25
 
 Some challenges we can face as scientist are not just our experiments and analyses, but keeping organized and balancing the hundreds of things we have to do each day. There are lots of tools out there for keeping on top of our todo lists, but if you are like me, you have found it difficult to actually find one that sticks, and actually improves day-to-day life. After trying many different approaches and tools, I've really come to like the bullet journal strategy. Because I have found it to be such a game changer, I want to break away from the research heavy topics and share some of my experiences in how I've better enabled my science by improving my organization.
 
-![](/Users/Hannigan/git/Microbiology.github.io/images/RapidLogExample.png)
+![](../../../images/RapidLogExample.png)
 
 *Example comparison of a "traditional" todo list compared to a "rapid logging" bullet journal approach, taken from the Bullet Journal website.*
 
@@ -21,7 +21,7 @@ Getting started with a Bullet Journal is pretty simple, and you can get most of 
 
 The main idea behind Bullet Journaling is that you **keep a running log of you tasks** as bullet points (marked with a *simple dot*). You can make notes with *dashes* and events with *open cirlces*, but most of my bullet journal is tasks. I use notes sparingly and never use the events feature (they just never really worked for me). I also usually nest my notes under their related tasks. I use a star to prioritize tasks, I draw an "X" over a task dot when it is completed, I draw a "\" when I need to transfer the task to the next day, and I cross the whole thing out if it has become irelevant. It's also important to note that I strictly adhere to using only one line for each task, as a way to keep it brief.
 
-![](/Users/Hannigan/git/Microbiology.github.io/images/DailyLogExample.png)
+![](../../../images/DailyLogExample.png)
 
 *Example of what some daily logs could look like. Taken from the Bullet Journal website.*
 
