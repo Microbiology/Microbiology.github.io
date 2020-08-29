@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Impact of Bacterial Viruses on Cancer Immunity",
+      "link"			: "http://microbiology.github.io/blog/PhageAndCancerTreatment/",
+      "excerpt"		: "Bacteriophage molecular mimicry impacts chemotherapy and immunotherapy efficacy."
+    }
+  
+
+  
+    ,{
       "title"			: "Doing Group Science With The Agile Methodology",
       "link"			: "http://microbiology.github.io/blog/WorkingAgile/",
       "excerpt"		: "Three helpful tips for managing large science projects using Agile/SCRUM."
