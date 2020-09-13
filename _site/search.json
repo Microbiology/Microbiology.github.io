@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Learning To Code With Problem-Based Group Learning & LeetCode",
+      "link"			: "http://microbiology.github.io/blog/CodeClubAndLeetCode/",
+      "excerpt"		: "Our site recently got together to learn some Python through solving a problem."
+    }
+  
+
+  
+    ,{
       "title"			: "Impact of Bacterial Viruses on Cancer Immunity",
       "link"			: "http://microbiology.github.io/blog/PhageAndCancerTreatment/",
       "excerpt"		: "Bacteriophage molecular mimicry impacts chemotherapy and immunotherapy efficacy."

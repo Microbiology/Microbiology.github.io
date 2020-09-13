@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://microbiology.github.io/blog/CodeClubAndLeetCode/</loc>
+<lastmod>2020-09-13T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://microbiology.github.io/blog/PhageAndCancerTreatment/</loc>
 <lastmod>2020-08-29T00:00:00-04:00</lastmod>
 </url>
@@ -69,5 +73,9 @@
 <url>
 <loc>http://microbiology.github.io/cv/Hannigan-Geoffrey-D_Curriculum_Vitae.pdf</loc>
 <lastmod>2020-07-27T19:18:53-04:00</lastmod>
+</url>
+<url>
+<loc>http://microbiology.github.io/pdfs_etc/PythonCodeClubIntro-20200911.pdf</loc>
+<lastmod>2020-09-13T12:38:27-04:00</lastmod>
 </url>
 </urlset>
