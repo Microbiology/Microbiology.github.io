@@ -21,7 +21,7 @@ When having a discussion, it's often helpful to define our terms (ask Voltaire) 
 
 As the Harvard Business Review and others have articulated well, there are [many types of data scientists and data roles](https://hbr.org/2018/11/the-kinds-of-data-scientist), and it's important to understand who is required when building a data science team. We can ask ourselves whether the requirements are focused on statistics, engineering databases, engineering graphic user interfaces, software engineering, or  driving research that requires expertise in a subject matter (e.g. chemistry). Most often an effective team will require members of diverse backgrounds to work together, so the right combinations will be important.
 
-![](../../../images/netlifx-ds-skill-examples.jpeg)
+![](../../../images/netlifx-ds-skill-examples.jpg)
 
 *Example illustration for some different types of data science skill sets to consider when building a team. [Netflix source.](https://netflixtechblog.com/notebook-innovation-591ee3221233)*
 
@@ -43,7 +43,7 @@ This also ties into the point around team skills. For example, having some data 
 
 **Collaboration** and **transparency** are key to any scientific endeavor, including data science. This is especially true at an organizational level. It's important to think about how members of a data science team will share their results with each other, how they will share results outside of their group, and how they will evaluate the work of their teammates (e.g. code review). The Netflix data science folks articulate this well and [identify frameworks resources such as Jupyter Notebooks for facilitating transparency and collaboration](https://netflixtechblog.com/notebook-innovation-591ee3221233).
 
-![](../../../images/netflix-example-scheme.jpeg)
+![](../../../images/netflix-example-scheme.jpg)
 
 *Example flowchart for building an effective analytic platform to empower data science teams. This diagram includes the notebooking tools, compute platforms, sharing resources, and databases. [Netflix source.](https://netflixtechblog.com/notebook-innovation-591ee3221233)*
 
