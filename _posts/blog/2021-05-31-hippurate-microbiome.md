@@ -21,8 +21,8 @@ Their analysis highlighted **hippurate** as being the human (urine) metabolite m
 
 After the group had identified hippurate as their metabolite of interest, they dug into the bacterial metagenomics to identify microbial metabolic processes associated with increased hippurate production. The research group broke the metagenomics data down into manually curated metabolic modules based on KEGG annotations. Their abundance analyses found that two metabolic modules were correlated with urine hippurate (see their pathway context in the figure below). Both of these modules are associated with benzoic acid, which in turn is associated with hippuric acid, although the pathway context highlights the complications and nuances associated with interpretations of these findings.
 
-	* **MC0004**: Cinnamate conversion, leading to the production of phenylpropanoate.
-	* **MC0005**: Coumarate degradation, also encoding degradation of cinnamate to benzoate
+* **MC0004**: Cinnamate conversion, leading to the production of phenylpropanoate.
+* **MC0005**: Coumarate degradation, also encoding degradation of cinnamate to benzoate
 
 ![](../../../images/hippurate-metabolism.png)
 
