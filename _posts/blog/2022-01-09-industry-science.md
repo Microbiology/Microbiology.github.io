@@ -15,7 +15,7 @@ In the sciences, figuring out our career paths can be a challenge. There is what
 
 To try to provide some more clarity around scientific careers in industry, I am going to start a blog series called **“Industry Science”** where we can look into the black box of industry together. Recently on [Twitter I asked what the big questions](https://twitter.com/iprophage/status/1477711597514727430) are that people have about industry and I’m going to get started by using that as a guide for what topics we should cover. To kick things off, let’s start by discussing the impressive variability of experiences and roles in industry.
 
-![](../../../images/20220109-tweet.png)
+<img src="../../../images/20220109-tweet.png"  align="center" width="50%">
 
 *Recently on Twitter I asked what the big questions are that people have about industry and I’m going to get started by using that as a guide for what topics we should cover.*
 
