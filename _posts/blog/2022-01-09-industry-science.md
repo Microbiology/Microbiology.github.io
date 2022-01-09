@@ -9,8 +9,6 @@ share: true
 date: 2022-01-09
 ---
 
-## Introduction
-
 In the sciences, figuring out our career paths can be a challenge. There is what we can call the academic path (assistant professor, etc) but what about other paths like industry (pharma, biotech, etc)? I found (and I think many others do too) academia to be a bit clearer because we spend so much time in the University system during our scientific training. Conversely I think a lot of times industry can be a bit more of a black box, with details and perspectives somewhat elusive. Throughout my graduate and postdoc training, I really benefited from insightful, supportive, and generous colleagues who shared this information and helped me make an informed decision about where I wanted to go in my career. Since joining industry as a computational biologist after my postdoc, I’ve been passionate about paying it forward and trying to be a resource for others who want to learn more.
 
 To try to provide some more clarity around scientific careers in industry, I am going to start a blog series called **“Industry Science”** where we can look into the black box of industry together. Recently on [Twitter I asked what the big questions](https://twitter.com/iprophage/status/1477711597514727430) are that people have about industry and I’m going to get started by using that as a guide for what topics we should cover. To kick things off, let’s start by discussing the impressive variability of experiences and roles in industry.
