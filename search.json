@@ -2,9 +2,41 @@
 
   
     {
+      "title"			: "Publications",
+      "link"			: "http://microbiology.github.io/publications/",
+      "excerpt"		: "Most of us probably appreciate the importance of publication in academia. In my experience, PhD programs generally require at least one first author publication to graduate (many require two). Postdocs pursue publications to advance their research and careers, and university labs focus on publishing as a key output of their research. This may sound familiar in the academic setting, but what about industry? What does publication look like for a scientist doing research in a company? Without being in industry, I don’t think it’s always clear how industry scientists balance publications with their other therapeutic priorities. In this post we will explore what it means to publish research in industry."
+    }
+  
+
+  
+    ,{
+      "title"			: "Industry Science: Publishing Research In Industry",
+      "link"			: "http://microbiology.github.io/blog/publications/",
+      "excerpt"		: "Let’s explore what it’s like to publish in industry."
+    }
+  
+
+  
+    ,{
+      "title"			: "Getting Started",
+      "link"			: "http://microbiology.github.io/getting-started/",
+      "excerpt"		: "The industry career path can be incredibly rewarding, challenging, and fun, but how do we get started? How do we break into industry after graduating with our PhD or completing our postdoc? Making the move to industry can sometimes be a challenge, and this question of how is a big one. In this blog post we will build off of our previous post (career trajectory within industry) and discuss some ways to get started with pursuing a career in industry."
+    }
+  
+
+  
+    ,{
       "title"			: "Industry Science: Getting Started With Going Into Industry",
       "link"			: "http://microbiology.github.io/blog/getting-started/",
       "excerpt"		: "Let’s explore what some ways to get started with a career in industry."
+    }
+  
+
+  
+    ,{
+      "title"			: "Pivot Careers",
+      "link"			: "http://microbiology.github.io/pivot-careers/",
+      "excerpt"		: "Scientific industry companies, like pharmaceutical companies, can be massive networks that connect many fascinating departments and fields. For example we might find ourselves in a computational biology department but there are many other departments including statistics, drug modeling, molecular biology, medicinal chemistry, etc. Even further beyond this research scope are departments such as regulatory affairs, business development, marketing, supply chain, and the list goes on."
     }
   
 
@@ -18,9 +50,25 @@
 
   
     ,{
+      "title"			: "Industry Science",
+      "link"			: "http://microbiology.github.io/industry-science/",
+      "excerpt"		: "In the sciences, figuring out our career paths can be a challenge. There is what we can call the academic path (assistant professor, etc) but what about other paths like industry (pharma, biotech, etc)? I found (and I think many others do too) academia to be a bit clearer because we spend so much time in the University system during our scientific training. Conversely I think a lot of times industry can be a bit more of a black box, with details and perspectives somewhat elusive. Throughout my graduate and postdoc training, I really benefited from insightful, supportive, and generous colleagues who shared this information and helped me make an informed decision about where I wanted to go in my career. Since joining industry as a computational biologist after my postdoc, I’ve been passionate about paying it forward and trying to be a resource for others who want to learn more."
+    }
+  
+
+  
+    ,{
       "title"			: "Industry Science: Different Companies Are Different",
       "link"			: "http://microbiology.github.io/blog/industry-science/",
       "excerpt"		: "Together let’s explore careers in industry in a new blog series."
+    }
+  
+
+  
+    ,{
+      "title"			: "Hippurate Microbiome",
+      "link"			: "http://microbiology.github.io/hippurate-microbiome/",
+      "excerpt"		: "Introduction"
     }
   
 
@@ -42,6 +90,22 @@
 
   
     ,{
+      "title"			: "Map_motivation",
+      "link"			: "http://microbiology.github.io/MAP_Motivation/",
+      "excerpt"		: "Getting motivated to do our science can be challenging. Likewise, if we are running a lab or other kind of research group, it can be challenging to cultivate and maintain an environment where we all feel fulfilled and motivated by our research. Recently I have been reading and reflecting on this topic, and the work from Daniel Pink has stood out. Pink is a popular writer and his work (most notably his book Drive) outlines three key “MAP” motivators: Mastery (we want to get better at stuff), Autonomy (we want to direct our lives), and Purpose (we want to contribute to something big and meaningful). For this post we will take some time to discuss and reflect on the MAP criteria for motivation, and how we can use them to motivate our research."
+    }
+  
+
+  
+    ,{
+      "title"			: "Buildingdsteam",
+      "link"			: "http://microbiology.github.io/BuildingDSTeam/",
+      "excerpt"		: "Introduction"
+    }
+  
+
+  
+    ,{
       "title"			: "Five Key Considerations When Building A Data Science Team",
       "link"			: "http://microbiology.github.io/blog/BuildingDSTeam/",
       "excerpt"		: "Building a data science team is hard. Here we explore what may lead to success."
@@ -50,9 +114,25 @@
 
   
     ,{
+      "title"			: "Codeclubandleetcode",
+      "link"			: "http://microbiology.github.io/CodeClubAndLeetCode/",
+      "excerpt"		: "Introduction"
+    }
+  
+
+  
+    ,{
       "title"			: "Learning To Code With Problem-Based Group Learning & LeetCode",
       "link"			: "http://microbiology.github.io/blog/CodeClubAndLeetCode/",
       "excerpt"		: "Our site recently got together to learn some Python through solving a problem."
+    }
+  
+
+  
+    ,{
+      "title"			: "Phageandcancertreatment",
+      "link"			: "http://microbiology.github.io/PhageAndCancerTreatment/",
+      "excerpt"		: "Introduction"
     }
   
 
@@ -74,9 +154,25 @@
 
   
     ,{
+      "title"			: "Workingagile",
+      "link"			: "http://microbiology.github.io/WorkingAgile/",
+      "excerpt"		: "Introduction"
+    }
+  
+
+  
+    ,{
       "title"			: "Empowering Science Through Organization (Bullet Journals)",
       "link"			: "http://microbiology.github.io/blog/BulletJournal/",
       "excerpt"		: "Science demands organization, and that’s not easy. I’ve found the bullet journal approach to be really helpful."
+    }
+  
+
+  
+    ,{
+      "title"			: "Bulletjournal",
+      "link"			: "http://microbiology.github.io/BulletJournal/",
+      "excerpt"		: "Some challenges we can face as scientist are not just our experiments and analyses, but keeping organized and balancing the hundreds of things we have to do each day. There are lots of tools out there for keeping on top of our todo lists, but if you are like me, you have found it difficult to actually find one that sticks, and actually improves day-to-day life. After trying many different approaches and tools, I’ve really come to like the bullet journal strategy. Because I have found it to be such a game changer, I want to break away from the research heavy topics and share some of my experiences in how I’ve better enabled my science by improving my organization."
     }
   
 
@@ -90,9 +186,25 @@
 
   
     ,{
+      "title"			: "Oral Microbiome Bgc",
+      "link"			: "http://microbiology.github.io/oral-microbiome-bgc/",
+      "excerpt"		: "Understanding and elucidating the links between the microbiome and human health is a complex problem, largely due to the complicated webs of interactions between members of the microbiome and the human host. One layer of this complicated system is the functionality of bacteria within the microbiome. Small molecules, often produced by microbial biosynthetic gene clusters (BGCs), are an avenue many groups are now taking to further elucidate this functionality. As we discussed in this blog before, BGCs are clusters of co-localized genes that together encode the “machinery” needed to produce small molecules that can impact functionality of either human cells or other microbial cells. In this blog post we will discuss the recently reported work of Aleti et al, in which they reported an analysis of the biosynthetic potential of the oral microbiome, and its association with oral disease. The group’s disease focus was on periodontitis and dental plaques, which are significant disease burdens."
+    }
+  
+
+  
+    ,{
       "title"			: "Bacterial Small Molecules Provide Defense Against Their Viruses",
       "link"			: "http://microbiology.github.io/blog/phage-chem-defense/",
       "excerpt"		: "A recently published study outlines a chemical mechanism for phage infection defense in bacteria."
+    }
+  
+
+  
+    ,{
+      "title"			: "Phage Chem Defense",
+      "link"			: "http://microbiology.github.io/phage-chem-defense/",
+      "excerpt"		: "Bacteriophages (viruses that specifically infect bacteria) are important mediators of human health. The approach termed phage therapy involves the use of phages to therapeutically to kill antibiotic resistant bacteria and thereby treat resistant, life-threatening infections. These phage-based approaches are also appealing in applications such as “microbiome sparing” therapies for infections, which means the specific infectious bacterium is killed by the phage and the overall community is impacted less than by an antibiotic treatment. For these reasons, it is important for us as a field to understand how phages infect their hosts, and how bacteria evade phage infections. A recently published manuscript by Sarah Kronheim et al addresses our knowledge gap of how bacteria combat phage infections by outlining a previously understudied chemical-based bacterial defense mechanism against phages."
     }
   
 
@@ -106,9 +218,25 @@
 
   
     ,{
+      "title"			: "Recent Crc Virome",
+      "link"			: "http://microbiology.github.io/recent-crc-virome/",
+      "excerpt"		: "This year has shaped up to be a busy but exciting year, and one of these exciting parts has been the opportunity to publish some of my work in the human microbiome/virome space. A couple of weeks ago our research group (from when I was at the University of Michigan) had our colon cancer virome preprint fully published in mBio, and I am really excited to see it out. For this post I want to highlight that work and provide a little extra commentary about how I think it fits in the field and where the work is going."
+    }
+  
+
+  
+    ,{
       "title"			: "Microbiome Natural Product Biosynthesis and Synthetic Orphans",
       "link"			: "http://microbiology.github.io/blog/bgc-transcript-pnas/",
       "excerpt"		: "Discussion of a recent study that provides new insights into orphan biosynthetic gene clusters, and the implications of those findings for the human microbiome."
+    }
+  
+
+  
+    ,{
+      "title"			: "Bgc Transcript Pnas",
+      "link"			: "http://microbiology.github.io/bgc-transcript-pnas/",
+      "excerpt"		: "Wow, it’s been about six months since my last post and a lot has been happening! Between pushing through some papers and working on exciting projects in my new job in pharma, it’s been a busy summer. Unfortunately the blogging took a back seat but I’m excited to hop back onto the computer and hopefully keep the posts more frequent moving forward. So let’s dive in!"
     }
   
 
@@ -122,9 +250,25 @@
 
   
     ,{
+      "title"			: "Com Bio Tech",
+      "link"			: "http://microbiology.github.io/com-bio-tech/",
+      "excerpt"		: "Introduction"
+    }
+  
+
+  
+    ,{
       "title"			: "Uncovering the Hidden Viruses of Your Urine",
       "link"			: "http://microbiology.github.io/blog/urine-virome/",
       "excerpt"		: "A group recently isolated bacteria to better understand viruses hiding in bacterial genomes."
+    }
+  
+
+  
+    ,{
+      "title"			: "Urine Virome",
+      "link"			: "http://microbiology.github.io/urine-virome/",
+      "excerpt"		: "It’s no secret that the human microbiome (the collection of bacteria, viruses, fungi, etc that inhabit the human body) has provided unprecedented insights into human health and disease. By beginning to understand the complementary roles that these microbial communities play in parallel with our human body, we are seeing many diseases with new perspectives. These new perspectives are already beginning to inform promising new therapies for truly terrible diseases (i.e. Clostridium difficile infections). Although the microbiome consists of fungi, viruses, archaea, and other microbes, bacteria are by and large the most studied component of the human microbiome. The human virome (the viral component of the human microbiome) is understudied, but especially interesting because it consists primarily of bacteriophages (bacterial viruses), which are capable of modulating bacterial metabolism, function, and community composition."
     }
   
 
@@ -138,6 +282,14 @@
 
   
     ,{
+      "title"			: "Cover Letter Template",
+      "link"			: "http://microbiology.github.io/cover-letter-template/",
+      "excerpt"		: "Markdown and RMarkdown are great tools for writing scientific documents and manuscripts. Markdown is advantageous over platforms like Microsoft Word because it only uses a simple text file, it allows the writer to focus on content and not formatting, and it can be incorporated easily into reproducible science workflows (Markdown is a sort of code). My colleagues and myself have really enjoyed using Markdown in our own work, although the documents have primarily been research manuscripts. As I was preparing these types of manuscripts for submission to journals, I wanted to include a Markdown cover letter to accompany my Markdown manuscript. In this blog post I want to present the resulting cover letter Markdown template that I came up with and used."
+    }
+  
+
+  
+    ,{
       "title"			: "New Insights Into How Bacterial Viruses Access The Human Body",
       "link"			: "http://microbiology.github.io/blog/phage-barrier-function/",
       "excerpt"		: "Bacteriophage Transcytosis Provides a Mechanism To Cross Epithelial Cell Layers"
@@ -146,9 +298,25 @@
 
   
     ,{
+      "title"			: "Phage Barrier Function",
+      "link"			: "http://microbiology.github.io/phage-barrier-function/",
+      "excerpt"		: "The human microbiome, the collection of microbes that live in and on the human body, has continued to gain attention as an important influencer of human health and disease. To date, the majority of microbiome studies have focused on bacteria, but microbiomes are actually complex communities that consist of fungi, archaea, viruses, and of course bacteria. The bacteriophage (viruses that infect bacteria) component of the human microbiome is of particular interest to human health because of the profound influence bacteriophages have on bacterial community composition and functionality. As an example, phages facilitate bacterial virulence in Cholera and enterohemorrhagic E. coli (EHEC). Despite their importance, we are still just scratching the surface into how phages interact with the human body to impact health. By understanding these phage - bacteria - human interactions better, we can better understand how the microbiome impacts human health, and how we can create microbiome-based therapies."
+    }
+  
+
+  
+    ,{
       "title"			: "A Whole New Blogging World",
       "link"			: "http://microbiology.github.io/blog/hello-world/",
       "excerpt"		: "Welcome to the new Prophage blog site."
+    }
+  
+
+  
+    ,{
+      "title"			: "Hello World",
+      "link"			: "http://microbiology.github.io/hello-world/",
+      "excerpt"		: "Hello and welcome to the new Prophage blog site. If you’ve read the blog before, you know that the site used to be hosted by Google Blogger here. Prophage was active for many years and accumulated well over 100,000 views! It’s been exciting, but the old format was starting to get restricting. In an effort to deliver more and better designed content, I decided to make the switch to a GitHub hosted blog using Jekyll."
     }
   
 
