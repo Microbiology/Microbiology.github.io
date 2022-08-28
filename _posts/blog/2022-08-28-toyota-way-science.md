@@ -44,3 +44,4 @@ It can be incredibly tempting for us to adopt or develop a technology because it
 
 Three key points we can take from the Toyota Way are to go see for ourselves (*genchi genbutsu*), to be scientific in improving our teams, and to focus on solving problems without being a hammer looking for a nail. There is even more to unpack in this book (I highly recommend picking it up from the local library) but we can summarize it as **adopting a mindset around intentionally growing and improving (continuous improvement)**. And importantly we need to realize that the Toyota Way is not a simple solution we can implement and then forget about. It’s a mindset and a culture whose benefit really shows after long-term implementation.
 
+[Note: Image Source](https://tigosoftware.com/lean-management-14-principles-toyota-way)
