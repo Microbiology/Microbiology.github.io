@@ -1,5 +1,9 @@
 # Authors
 
+edeyett:
+  name: Elizabeth Deyett, PhD
+  avatar: tessphoto.jpg
+
 billy_rick:
   name: Billy Rick
   web: http://thewhip.com
@@ -14,7 +18,7 @@ cornelius_fiddlebone:
   name: Cornelius Fiddlebone
   email: cornelius@thewhip.com
   bio: "I ordered what?"
-  avatar: bio-photo.jpg
+  avatar: bio-photo-alt.jpg
   twitter: rhymeswithsackit
   google:
     plus: CorneliusFiddlebone
