@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Gleaning Biological Insights From Complex Data Using Knowledge Graphs",
+      "link"			: "http://microbiology.github.io/blog/knowledge_graphs/",
+      "excerpt"		: "Knowledge graphs have been seeing an astounding growth in popularity and interest, and for good reason. The provide a valuable approach to connecting and analyzing complex data."
+    }
+  
+
+  
+    ,{
       "title"			: "The 3 Pillars of a HaPPPy Career",
       "link"			: "http://microbiology.github.io/blog/happpy-career/",
       "excerpt"		: "Ask yourself: Does your job have the 3 pillars of a haPPPy career?"
@@ -29,14 +37,6 @@
       "title"			: "Industry Science: Publishing Research In Industry",
       "link"			: "http://microbiology.github.io/blog/publications/",
       "excerpt"		: "Let’s explore what it’s like to publish in industry."
-    }
-  
-
-  
-    ,{
-      "title"			: "Gleaning Biological Insights From Complex Data Using Knowledge Graphs",
-      "link"			: "http://microbiology.github.io/blog/knowledge_graphs/",
-      "excerpt"		: "Knowledge graphs have been seeing an astounding growth in popularity and interest, and for good reason. The provide a valuable approach to connecting and analyzing complex data."
     }
   
 
