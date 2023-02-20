@@ -34,6 +34,14 @@
 
   
     ,{
+      "title"			: "Gleaning Biological Insights From Complex Data Using Knowledge Graphs",
+      "link"			: "http://microbiology.github.io/blog/knowledge_graphs/",
+      "excerpt"		: "Knowledge graphs have been seeing an astounding growth in popularity and interest, and for good reason. The provide a valuable approach to connecting and analyzing complex data."
+    }
+  
+
+  
+    ,{
       "title"			: "Industry Science: Getting Started With Going Into Industry",
       "link"			: "http://microbiology.github.io/blog/getting-started/",
       "excerpt"		: "Let’s explore what some ways to get started with a career in industry."
